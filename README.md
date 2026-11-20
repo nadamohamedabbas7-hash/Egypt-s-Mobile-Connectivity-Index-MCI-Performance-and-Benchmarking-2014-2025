@@ -1,1 +1,2 @@
 # Egypt-s-Mobile-Connectivity-Index-MCI-Performance-and-Benchmarking-2014-2025
+Built a 4-page Power BI dashboard and presentation covering 174 countries. Egypt's score rose from 47.4 to 67.5 (+20.1), reaching the global average. Benchmarked against Morocco, Saudi Arabia, Turkey, Vietnam and South Africa, where Egypt ranked last of six. Identified taxation, spectrum and local content as key gaps, with recommendations worth about 12 index points.
